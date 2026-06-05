@@ -1,4 +1,4 @@
-# TP 3 : Consommation d'un Service Web SOAP (Java & PHP)
+# TP 3 : Consommation d'un Service Web SOAP (Java & PHP 8)
 
 Ce projet pratique (TP) illustre comment consommer un service web SOAP en utilisant deux approches distinctes :
 1. **Client Java** avec Maven et JAX-WS.
