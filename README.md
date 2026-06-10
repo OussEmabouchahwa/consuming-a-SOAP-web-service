@@ -24,7 +24,7 @@ Voici la démonstration du client PHP communiquant avec succès avec le service 
 
 ---
 
-## 🚀 Guide de Démarrage
+## 🚀 Guide pour le Démarrage
 
 ### 1. Prérequis
 * **Java SDK** (version 17 ou supérieure, testé avec OpenJDK 25).
